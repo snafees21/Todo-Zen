@@ -35,43 +35,21 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 
 # General Project Guidelines:
 
-* The app should be your own. (Turning in the result of just having followed a tutorial is not
+-The app should be your own. (Turning in the result of just having followed a tutorial is not
 permitted)
-
-* You are allowed to use other people’s work, as long it is attributed. If you use a dependency
+- You are allowed to use other people’s work, as long it is attributed. If you use a dependency
 through cocoa pods, the pod file is enough attribution for me. If you are copying or adapting
 code from a tutorial, please attribute the tutorial you followed. Any code we created in class
-you don’t have to attribute. 
-
-* Project scope: I would like your project to be a demonstration that you completed this class.
+you don’t have to attribute.
+- Project scope: I would like your project to be a demonstration that you completed this class.
 It should solve a non-trivial problem to you that is meaningful. If you are working in a group
 the scope should be appropriate to the size of your group.
-
-* Projects of an appropriate size likely either interact with a server (Firebase can give you a
+- Projects of an appropriate size likely either interact with a server (Firebase can give you a
 simple backend, there are a lot of free APIs for you to use), or use one or multiple of
 apple’s APIs that create a rich app experience (Multimedia, Maps, CoreData, AIKit,
 SpriteKit)
-
-* Your app likely has multiple screens
-
-* Too small for individual projects: A tip calculator
-
-* Failure to follow the guidelines may affect negatively your grade.
-
-# General Project Guidelines. 
-
-* In this class students will implement one course programming project
-
-* Projects are individual work. However, group work is encouraged to help other students.
-
-* Students will be provided with enough time to complete the project assigned in this class. 
-Project's deadlines will be informed by the instructor in class, by email, and posted on iLearn. 
-
-* Code committed after project deadlines won't be taken into consideration for grading purposes. (no exceptions here)
-
-* Students must provide complete documentation for the course project (README file, and code commented) 
-
-* Failure to provide docs will result in a 30% deduction from your grade in the project.
+- Your app likely has multiple screens
+- Too small for individual projects: A tip calculator
 
 # Milestone 1 Getting Set Up:
 
@@ -89,6 +67,21 @@ Additional considerations for grading:
 - Each user has to have contributed to the readme. The entire team is responsible for this.
 - The project you propose is of a scope appropriate for your group size
 
+# Milestone 2 Prototype:
+ Estimate how much work each feature will take to implement (in hours)
+- Assign owners for features and add up work estimates for each owner. Each group member
+should have a similar work-load
+- Designs
+- Wire frames for all your “Must-have features”
+- Finalize “Must-have features”
+From this point on you are committed to these features.
+- Working UI for key parts of the app
+
+# Milestone 3 Submission:
+Additional considerations for grading:
+- You implemented all of your must-have features
+- You contributed approximately an equal amount to the code base (equal in difficulty and
+amount of code)
 
 ***Must commit work to the class repository!***
 
