@@ -28,18 +28,19 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 | Add note page                     |        not completed       |                |
 
 # Project Proposal
--Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app
+Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app
 with some further functions. 
 The requirements will be listed  below:
 - The todo app will have multiple pages. Main page will consist of a caldendar at the top followed by a list of tasks 
 below it. It will also have two buttons that will allow the user to go to three other screen pages. 
 - User will be able to click "add task" and be sent to the corresponding page.
-- User will be able to add a task to a certain day using the calendar.
-- When setting a task, the user will be able to assign a time for the task.
+- When setting a task, the user will be able to assign a time and date for the task.
 - User will be able to push a button labeled "Reminder" and be sent to the corresponding page.
 - User will be able to view a list of reminders that they have previously set.
 - User will be able to push a button labeled "Notes" and be sent to the corresponding page.
 - User will be able to add notes to the notes page and view previous notes.
+- User will be able to search for tasks in the search bar.
+- User will be able to filter tasks using the drop down menu.
 
 ***Please read carefully all the guidelines described in this README file. ***
 # Goals:
