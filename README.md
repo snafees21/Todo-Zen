@@ -17,14 +17,29 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 2. Update this table of assignments. Set to "completed" after one of the assignments is completed:
 
 
-| Tasks                         |   Completed/Not-Completed  | Date Completed |
-| ----------------------------- | -------------------------- | -------------- |
-| Create/edit game scene        |        not completed       |                |
-| Add child to scene            |        not completed       |                |
-| Add movable objects (enemies) |        not completed       |                |
-| Add projectiles               |        not completed       |                |
-| Add Collision Detection       |        not completed       |                |
+| Tasks                             |   Completed/Not-Completed  | Date Completed |
+| --------------------------------- | -------------------------- | -------------- |
+| Add task function                 |        not completed       |                |
+| Adding filter option              |        not completed       |                |
+| Adding search function            |        not completed       |                |
+| Make icons for app                |        not completed       |                |
+| Add calendar view                 |        not completed       |                |
+| Add reminder page                 |        not completed       |                |
+| Add note page                     |        not completed       |                |
 
+# Project Proposal
+-Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app
+with some further functions. 
+The requirements will be listed  below:
+- The todo app will have multiple pages. Main page will consist of a caldendar at the top followed by a list of tasks 
+below it. It will also have two buttons that will allow the user to go to three other screen pages. 
+- User will be able to click "add task" and be sent to the corresponding page.
+- User will be able to add a task to a certain day using the calendar.
+- When setting a task, the user will be able to assign a time for the task.
+- User will be able to push a button labeled "Reminder" and be sent to the corresponding page.
+- User will be able to view a list of reminders that they have previously set.
+- User will be able to push a button labeled "Notes" and be sent to the corresponding page.
+- User will be able to add notes to the notes page and view previous notes.
 
 ***Please read carefully all the guidelines described in this README file. ***
 # Goals:
