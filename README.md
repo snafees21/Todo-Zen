@@ -9,7 +9,7 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 | Name                     |   Student ID  |
 | ------------------------ | ------------- |
 | Sabrina Dang             |   918586947   |
-|                          |               |
+| Sarah Nafees             |   917280616   |
 |                          |               |
 
 
