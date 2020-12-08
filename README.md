@@ -50,6 +50,16 @@ Our project will be based on the todo app done in class with Professor Essellman
 - Each task can be written in different colors. 
 - User will be able to add the task "type" 
 
+### Prototype
+<img width="200" alt="Screen Shot 2020-12-07 at 7 38 49 PM" src="https://user-images.githubusercontent.com/55061688/101437853-f086a200-38c5-11eb-9eac-fdf0401935d9.png">
+
+<img width="200" alt="Screen Shot 2020-12-07 at 7 51 38 PM" src="https://user-images.githubusercontent.com/55061688/101437914-13b15180-38c6-11eb-8ec4-14d5a90cbe13.png">
+
+<img width="200" alt="Screen Shot 2020-12-07 at 7 52 10 PM" src="https://user-images.githubusercontent.com/55061688/101437946-1f9d1380-38c6-11eb-806e-9a7699eda5ec.png">
+
+<img width="200" alt="Screen Shot 2020-12-07 at 7 52 42 PM" src="https://user-images.githubusercontent.com/55061688/101437966-2af03f00-38c6-11eb-8de4-442268e96bcc.png">
+
+
 ***Please read carefully all the guidelines described in this README file. ***
 # Goals:
 
