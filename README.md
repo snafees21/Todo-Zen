@@ -30,7 +30,7 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 # Project Proposal
 Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app with some further functions. 
 
-Must have features
+### Must-have features
 - The todo app will have multiple pages. 
 - Main page will have a list of tasks added by the user. 
 - User will be able to filter tasks using the drop down menu.
@@ -41,7 +41,7 @@ Must have features
 - User will be able to push a button labeled "Notes" and be sent to the corresponding page.
 - User will have a single notes page 
 
-Nice to have features
+### Nice-to-have features
 - User will be able to search for tasks in the search bar.
 - User will be able to search their notes using a search bar.
 - User will be able to add notes to the notes page and view previous notes.
