@@ -28,19 +28,27 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 | Add note page                     |        not completed       |                |
 
 # Project Proposal
-Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app
-with some further functions. 
-The requirements will be listed  below:
-- The todo app will have multiple pages. Main page will consist of a caldendar at the top followed by a list of tasks 
-below it. It will also have two buttons that will allow the user to go to three other screen pages. 
+Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app with some further functions. 
+
+Must have features
+- The todo app will have multiple pages. 
+- Main page will have a list of tasks added by the user. 
+- User will be able to filter tasks using the drop down menu.
 - User will be able to click "add task" and be sent to the corresponding page.
-- When setting a task, the user will be able to assign a time and date for the task.
+- When setting a task, user will be able to assign a date and time for that task. 
 - User will be able to push a button labeled "Reminder" and be sent to the corresponding page.
 - User will be able to view a list of reminders that they have previously set.
 - User will be able to push a button labeled "Notes" and be sent to the corresponding page.
-- User will be able to add notes to the notes page and view previous notes.
+- User will have a single notes page 
+
+Nice to have features
 - User will be able to search for tasks in the search bar.
-- User will be able to filter tasks using the drop down menu.
+- User will be able to search their notes using a search bar.
+- User will be able to add notes to the notes page and view previous notes.
+- User will be able to include a task description when adding a new task. 
+- User will be able to view a calender containing their events.
+- Each task can be written in different colors. 
+- User will be able to add the task "type" 
 
 ***Please read carefully all the guidelines described in this README file. ***
 # Goals:
