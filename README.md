@@ -17,15 +17,20 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 2. Update this table of assignments. Set to "completed" after one of the assignments is completed:
 
 
-| Tasks                             |   Completed/Not-Completed  | Date Completed |
-| --------------------------------- | -------------------------- | -------------- |
-| Add task function                 |        not completed       |                |
-| Adding filter option              |        not completed       |                |
-| Adding search function            |        not completed       |                |
-| Make icons for app                |        not completed       |                |
-| Add calendar view                 |        not completed       |                |
-| Add reminder page                 |        not completed       |                |
-| Add note page                     |        not completed       |                |
+| Tasks                               |   Completed/Not-Completed  | Date Completed |
+| ----------------------------------- | -------------------------- | -------------- |
+| Make Task View                      |        completed           |    12/04/20    |
+| Make "Add Task" View                |        completed           |    12/04/20    |
+| Implement Add Task Functionality    |        completed           |    12/05/20    |
+| Implement Task Sort by Date         |        completed           |    12/05/20    |
+| Add Button Naviagtion Functionality |        completed           |    12/06/20    |
+| Make Calendar View                  |        Completed           |    12/08/20    |
+| Implement Calendar Functionality    |        Completed           |    12/08/20    |
+| Adding filter option                |        not completed       |                |
+| Adding search function              |        not completed       |                |
+
+
+
 
 # Project Proposal
 Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app with some further functions. 
