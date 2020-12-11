@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="20B29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TaskEntity" representedClassName=".TaskEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="taskDueDate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="taskIsComplete" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="taskTitle" attributeType="String"/>
+        <attribute name="taskType" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="TaskEntity" positionX="-63" positionY="-18" width="128" height="89"/>
+    </elements>
+</model>
