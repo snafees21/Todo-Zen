@@ -17,18 +17,19 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 2. Update this table of assignments. Set to "completed" after one of the assignments is completed:
 
 
-| Tasks                               |   Completed/Not-Completed  | Date Completed |
-| ----------------------------------- | -------------------------- | -------------- |
-| Make Task View                      |        completed           |    12/04/20    |
-| Make "Add Task" View                |        completed           |    12/04/20    |
-| Implement Add Task Functionality    |        completed           |    12/05/20    |
-| Implement Task Sort by Date         |        completed           |    12/05/20    |
-| Add Button Naviagtion Functionality |        completed           |    12/06/20    |
-| Make Calendar View                  |        Completed           |    12/08/20    |
-| Implement Calendar Functionality    |        Completed           |    12/08/20    |
-| Adding filter option                |        Completed           |    12/09/20    |
-| Adding search function              |        Completed           |    12/09/20    |
-| Adding floating icon and random msgs|        Completed           |    12/10/20    |
+| Tasks                                  |   Completed/Not-Completed  | Date Completed |
+| -------------------------------------- | -------------------------- | -------------- |
+| Make Task View                         |        completed           |    12/04/20    |
+| Make "Add Task" View                   |        completed           |    12/04/20    |
+| Implement Add Task Functionality       |        completed           |    12/05/20    |
+| Implement Task Sort by Date            |        completed           |    12/05/20    |
+| Add Button Naviagtion Functionality    |        completed           |    12/06/20    |
+| Make Calendar View                     |        Completed           |    12/08/20    |
+| Implement Calendar Functionality       |        Completed           |    12/08/20    |
+| Adding filter option                   |        Completed           |    12/09/20    |
+| Adding search function                 |        Completed           |    12/09/20    |
+| Adding floating icon and random msgs   |        Completed           |    12/10/20    |
+| Adding color palette to app for visuals|        Completed           |    12/10/20    |
 
 
 
