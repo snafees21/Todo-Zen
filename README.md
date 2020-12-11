@@ -10,7 +10,7 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 | ------------------------ | ------------- |
 | Sabrina Dang             |   918586947   |
 | Sarah Nafees             |   917280616   |
-|                          |               |
+| Gouri Jamakhandi         |   916886690   |
 
 
 
@@ -19,14 +19,14 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 
 | Tasks                                  |   Completed/Not-Completed  | Date Completed |
 | -------------------------------------- | -------------------------- | -------------- |
-| Make Task View                         |        completed           |    12/04/20    |
-| Make "Add Task" View                   |        completed           |    12/04/20    |
-| Implement Add Task Functionality       |        completed           |    12/05/20    |
-| Implement Task Sort by Date            |        completed           |    12/05/20    |
-| Add Button Naviagtion Functionality    |        completed           |    12/06/20    |
+| Make Task View                         |        Completed           |    12/04/20    |
+| Make "Add Task" View                   |        Completed           |    12/04/20    |
+| Implement Add Task Functionality       |        Completed           |    12/05/20    |
+| Implement Task Sort by Date            |        Completed           |    12/05/20    |
+| Add Button Naviagtion Functionality    |        Completed           |    12/06/20    |
 | Make Calendar View                     |        Completed           |    12/08/20    |
 | Implement Calendar Functionality       |        Completed           |    12/08/20    |
-| Adding filter option                   |        Completed           |    12/09/20    |
+| Adding filter option                   |      Not-Completed         |    12/09/20    |
 | Adding search function                 |        Completed           |    12/09/20    |
 | Adding floating icon and random msgs   |        Completed           |    12/10/20    |
 | Adding color palette to app for visuals|        Completed           |    12/10/20    |
