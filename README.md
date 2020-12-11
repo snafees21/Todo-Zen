@@ -63,6 +63,7 @@ is geared towards students to help them sort out their school tasks.
 
 <img width="200" alt="Screen Shot 2020-12-07 at 7 52 42 PM" src="https://user-images.githubusercontent.com/55061688/101437966-2af03f00-38c6-11eb-8de4-442268e96bcc.png">
 
+FSCalendar credit to: https://github.com/WenchaoD/FSCalendar
 
 ***Please read carefully all the guidelines described in this README file. ***
 # Goals:
