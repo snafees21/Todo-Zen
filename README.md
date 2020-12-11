@@ -33,27 +33,24 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 
 
 # Project Proposal
-Our project will be based on the todo app done in class with Professor Essellmann. We want to implement a todo app with some further functions. 
+Our project will be inspired by the todo app done in class with Professor Essellmann. We want to implement a task manager app that 
+is geared towards students to help them sort out their school tasks.
 
 ### Must-have features
 - The todo app will have multiple pages. 
 - Main page will have a list of tasks added by the user. 
-- User will be able to filter tasks using the drop down menu.
 - User will be able to click "add task" and be sent to the corresponding page.
+- User will be able to delete tasks
 - When setting a task, user will be able to assign a date and time for that task. 
 - User will be able to push a button labeled "Reminder" and be sent to the corresponding page.
-- User will be able to view a list of reminders that they have previously set.
-- User will be able to push a button labeled "Notes" and be sent to the corresponding page.
-- User will have a single notes page 
 
 ### Nice-to-have features
 - User will be able to search for tasks in the search bar.
-- User will be able to search their notes using a search bar.
-- User will be able to add notes to the notes page and view previous notes.
-- User will be able to include a task description when adding a new task. 
+- User will be able to filter tasks using the drop down menu.
 - User will be able to view a calender containing their events.
-- Each task can be written in different colors. 
-- User will be able to add the task "type" 
+- User will be able to add tasks and categorize them by task "type"
+- User will be able to mark a task as completed
+- User will be able to click a floating icon to view randomly selected displayed message
 
 ### Prototype
 <img width="200" alt="Screen Shot 2020-12-07 at 7 38 49 PM" src="https://user-images.githubusercontent.com/55061688/101437853-f086a200-38c5-11eb-9eac-fdf0401935d9.png">
