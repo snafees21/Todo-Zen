@@ -1,9 +1,9 @@
-# Final-Project-CSC-690
+# Todo-Zen App
 Final project repository for CSC 690.
 
-This final project is for CSC690-01 Multimedia Application Development Fall 2020. Please modify this README file with the following info: 
+This final project is for CSC690-01 Multimedia Application Development Fall 2020.
 
-1. Your name, and student id here to see who is working on this group project.
+1. Name, and student id here to see who is working on this group project.
 
 
 | Name                     |   Student ID  |
@@ -122,7 +122,6 @@ Additional considerations for grading:
 - You contributed approximately an equal amount to the code base (equal in difficulty and
 amount of code)
 
-***Must commit work to the class repository!***
 
 
 
