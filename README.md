@@ -26,7 +26,7 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 | Add Button Naviagtion Functionality    |        Completed           |    12/06/20    |
 | Make Calendar View                     |        Completed           |    12/08/20    |
 | Implement Calendar Functionality       |        Completed           |    12/08/20    |
-| Adding filter option                   |      Not-Completed         |    12/09/20    |
+| Adding filter option                   |      Completed             |    12/09/20    |
 | Adding search function                 |        Completed           |    12/09/20    |
 | Adding floating icon and random msgs   |        Completed           |    12/10/20    |
 | Adding color palette to app for visuals|        Completed           |    12/10/20    |
