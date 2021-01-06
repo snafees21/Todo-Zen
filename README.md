@@ -1,7 +1,7 @@
 # Todo-Zen App
 
 ### Project Overview
-Team wanted to implement a to-do app that will help with task management in our daily lives. There are countless of apps that help track tasks, but those task lists start to look a little cluttered with the combination of both school tasks and other tasks. Our app is geared more towards students who would like a  specifically for school. The app will allow students to add tasks, categorize tasks, and interact with a calendar that contains tasks for that day or month.
+Team wanted to implement a to-do app that will help with task management in our daily lives. There are countless of apps that help track tasks, but this app is unique because it is geared more towards students who would like a  specifically for school. The app will allow students to add tasks, categorize tasks, and interact with a calendar that contains tasks for that day or month.
 
 ### Features
 - Main page has a list of tasks added by the user. 
