@@ -24,25 +24,6 @@ Team wanted to implement a to-do app that will help with task management in our 
 
 FSCalendar credit to: https://github.com/WenchaoD/FSCalendar
 
-
-# General Project Guidelines:
-
--The app should be your own. (Turning in the result of just having followed a tutorial is not
-permitted)
-- You are allowed to use other people’s work, as long it is attributed. If you use a dependency
-through cocoa pods, the pod file is enough attribution for me. If you are copying or adapting
-code from a tutorial, please attribute the tutorial you followed. Any code we created in class
-you don’t have to attribute.
-- Project scope: I would like your project to be a demonstration that you completed this class.
-It should solve a non-trivial problem to you that is meaningful. If you are working in a group
-the scope should be appropriate to the size of your group.
-- Projects of an appropriate size likely either interact with a server (Firebase can give you a
-simple backend, there are a lot of free APIs for you to use), or use one or multiple of
-apple’s APIs that create a rich app experience (Multimedia, Maps, CoreData, AIKit,
-SpriteKit)
-- Your app likely has multiple screens
-
-
 # Process Details
 
 ## Group Members
