@@ -62,7 +62,7 @@ is geared towards students to help them sort out their school tasks.
 FSCalendar credit to: https://github.com/WenchaoD/FSCalendar
 
 ### Final Product
-![Todo-Zen](https://user-images.githubusercontent.com/55061688/103715730-3b9fdd80-4f76-11eb-84ec-f6437dec6ad4.gif)
+![Todo](https://user-images.githubusercontent.com/55061688/103716357-b1f10f80-4f77-11eb-9b8d-4e841c9cab14.gif)
 
 
 ***Please read carefully all the guidelines described in this README file. ***
