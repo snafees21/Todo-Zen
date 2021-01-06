@@ -1,58 +1,18 @@
 # Todo-Zen App
-Final project repository for CSC 690.
 
-This final project is for CSC690-01 Multimedia Application Development Fall 2020.
+### Project Overview
+Team wanted to implement a to-do app that will help with task management in our daily lives. There are countless of apps that help track tasks, but those task lists start to look a little cluttered with the combination of both school tasks and other tasks. Our app is geared more towards students who would like a  specifically for school. The app will allow students to add tasks, categorize tasks, and interact with a calendar that contains tasks for that day or month.
 
-1. Name, and student id here to see who is working on this group project.
-
-
-| Name                     |   Student ID  |
-| ------------------------ | ------------- |
-| Sabrina Dang             |   918586947   |
-| Sarah Nafees             |   917280616   |
-| Gouri Jamakhandi         |   916886690   |
-
-
-
-2. Update this table of assignments. Set to "completed" after one of the assignments is completed:
-
-
-| Tasks                                  |   Completed/Not-Completed  | Date Completed |
-| -------------------------------------- | -------------------------- | -------------- |
-| Make Task View                         |        Completed           |    12/04/20    |
-| Make "Add Task" View                   |        Completed           |    12/04/20    |
-| Implement Add Task Functionality       |        Completed           |    12/05/20    |
-| Implement Task Sort by Date            |        Completed           |    12/05/20    |
-| Add Button Naviagtion Functionality    |        Completed           |    12/06/20    |
-| Make Calendar View                     |        Completed           |    12/08/20    |
-| Implement Calendar Functionality       |        Completed           |    12/08/20    |
-| Adding filter option                   |        Completed           |    12/09/20    |
-| Adding search function                 |        Completed           |    12/09/20    |
-| Adding floating icon and random msgs   |        Completed           |    12/10/20    |
-| Adding color palette to app for visuals|        Completed           |    12/10/20    |
-
-
-
-
-# Project Proposal
-Our project will be inspired by the todo app done in class with Professor Essellmann. We want to implement a task manager app that 
-is geared towards students to help them sort out their school tasks.
-
-### Must-have features
-- The todo app will have multiple pages. 
-- Main page will have a list of tasks added by the user. 
-- User will be able to click "add task" and be sent to the corresponding page.
-- User will be able to delete tasks
-- When setting a task, user will be able to assign a date and time for that task. 
+### Features
+- Main page has a list of tasks added by the user. 
+- User can add a new task by clicking '+'
+- When setting a task, user is able to assign a date, time, and type for that task. 
+- User can mark or delete their task when completed.
 - User will be able to see their tasks on a Calendar.
+- User is able to click a floating icon to view randomly selected displayed message. 
+- App includes search bar to search for user's tasks.
+- App includes filter icon to filter out tasks by selecting "today", "this week", or "this month".
 
-### Nice-to-have features
-- User will be able to search for tasks in the search bar.
-- User will be able to filter tasks using the drop down menu.
-- User will be able to view a calender containing their events.
-- User will be able to add tasks and categorize them by task "type"
-- User will be able to mark a task as completed
-- User will be able to click a floating icon to view randomly selected displayed message
 
 ### Prototype
 <img width="200" alt="Screen Shot 2020-12-07 at 7 38 49 PM" src="https://user-images.githubusercontent.com/55061688/101437853-f086a200-38c5-11eb-9eac-fdf0401935d9.png"> <img width="200" alt="Screen Shot 2020-12-07 at 7 51 38 PM" src="https://user-images.githubusercontent.com/55061688/101437914-13b15180-38c6-11eb-8ec4-14d5a90cbe13.png">
@@ -64,11 +24,6 @@ is geared towards students to help them sort out their school tasks.
 
 FSCalendar credit to: https://github.com/WenchaoD/FSCalendar
 
-***Please read carefully all the guidelines described in this README file. ***
-# Goals:
-
-* Have fun building an app (together) that you can be proud of
-* Learn from each other
 
 # General Project Guidelines:
 
@@ -88,7 +43,34 @@ SpriteKit)
 - Your app likely has multiple screens
 
 
-# Process
+# Process Details
+
+## Group Members
+
+| Name                     |   Student ID  |
+| ------------------------ | ------------- |
+| Sabrina Dang             |   918586947   |
+| Sarah Nafees             |   917280616   |
+| Gouri Jamakhandi         |   916886690   |
+
+
+
+## Timeline
+
+| Tasks                                  |   Completed/Incompleted  | Date Completed |
+| -------------------------------------- | -------------------------- | -------------- |
+| Make Task View                         |        Completed           |    12/04/20    |
+| Make "Add Task" View                   |        Completed           |    12/04/20    |
+| Implement Add Task Functionality       |        Completed           |    12/05/20    |
+| Implement Task Sort by Date            |        Completed           |    12/05/20    |
+| Add Button Naviagtion Functionality    |        Completed           |    12/06/20    |
+| Make Calendar View                     |        Completed           |    12/08/20    |
+| Implement Calendar Functionality       |        Completed           |    12/08/20    |
+| Adding filter option                   |        Completed           |    12/09/20    |
+| Adding search function                 |        Completed           |    12/09/20    |
+| Adding floating icon and random msgs   |        Completed           |    12/10/20    |
+| Adding color palette to app for visuals|        Completed           |    12/10/20    |
+
 
 ## Milestone 1 Getting Set Up:
 
