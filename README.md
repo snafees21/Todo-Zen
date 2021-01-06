@@ -26,7 +26,7 @@ This final project is for CSC690-01 Multimedia Application Development Fall 2020
 | Add Button Naviagtion Functionality    |        Completed           |    12/06/20    |
 | Make Calendar View                     |        Completed           |    12/08/20    |
 | Implement Calendar Functionality       |        Completed           |    12/08/20    |
-| Adding filter option                   |      Completed             |    12/09/20    |
+| Adding filter option                   |        Completed           |    12/09/20    |
 | Adding search function                 |        Completed           |    12/09/20    |
 | Adding floating icon and random msgs   |        Completed           |    12/10/20    |
 | Adding color palette to app for visuals|        Completed           |    12/10/20    |
@@ -44,7 +44,7 @@ is geared towards students to help them sort out their school tasks.
 - User will be able to click "add task" and be sent to the corresponding page.
 - User will be able to delete tasks
 - When setting a task, user will be able to assign a date and time for that task. 
-- User will be able to push a button labeled "Reminder" and be sent to the corresponding page.
+- User will be able to see their tasks on a Calendar.
 
 ### Nice-to-have features
 - User will be able to search for tasks in the search bar.
@@ -55,22 +55,21 @@ is geared towards students to help them sort out their school tasks.
 - User will be able to click a floating icon to view randomly selected displayed message
 
 ### Prototype
-<img width="200" alt="Screen Shot 2020-12-07 at 7 38 49 PM" src="https://user-images.githubusercontent.com/55061688/101437853-f086a200-38c5-11eb-9eac-fdf0401935d9.png">
+<img width="200" alt="Screen Shot 2020-12-07 at 7 38 49 PM" src="https://user-images.githubusercontent.com/55061688/101437853-f086a200-38c5-11eb-9eac-fdf0401935d9.png"> <img width="200" alt="Screen Shot 2020-12-07 at 7 51 38 PM" src="https://user-images.githubusercontent.com/55061688/101437914-13b15180-38c6-11eb-8ec4-14d5a90cbe13.png">
 
-<img width="200" alt="Screen Shot 2020-12-07 at 7 51 38 PM" src="https://user-images.githubusercontent.com/55061688/101437914-13b15180-38c6-11eb-8ec4-14d5a90cbe13.png">
-
-<img width="200" alt="Screen Shot 2020-12-07 at 7 52 10 PM" src="https://user-images.githubusercontent.com/55061688/101437946-1f9d1380-38c6-11eb-806e-9a7699eda5ec.png">
-
-<img width="200" alt="Screen Shot 2020-12-07 at 7 52 42 PM" src="https://user-images.githubusercontent.com/55061688/101437966-2af03f00-38c6-11eb-8de4-442268e96bcc.png">
+<img width="200" alt="Screen Shot 2020-12-07 at 7 52 10 PM" src="https://user-images.githubusercontent.com/55061688/101437946-1f9d1380-38c6-11eb-806e-9a7699eda5ec.png"> <img width="200" alt="Screen Shot 2020-12-07 at 7 52 42 PM" src="https://user-images.githubusercontent.com/55061688/101437966-2af03f00-38c6-11eb-8de4-442268e96bcc.png">
 
 FSCalendar credit to: https://github.com/WenchaoD/FSCalendar
+
+### Final Product
+![Todo-Zen](https://user-images.githubusercontent.com/55061688/103715730-3b9fdd80-4f76-11eb-84ec-f6437dec6ad4.gif)
+
 
 ***Please read carefully all the guidelines described in this README file. ***
 # Goals:
 
 * Have fun building an app (together) that you can be proud of
 * Learn from each other
-* Have something to show to future employers
 
 # General Project Guidelines:
 
@@ -88,23 +87,20 @@ simple backend, there are a lot of free APIs for you to use), or use one or mult
 apple’s APIs that create a rich app experience (Multimedia, Maps, CoreData, AIKit,
 SpriteKit)
 - Your app likely has multiple screens
-- Too small for individual projects: A tip calculator
 
-# Milestone 1 Getting Set Up:
 
-Decide if you would like to work by yourself or in a group.
+### Process
+
+## Milestone 1 Getting Set Up:
+
 - Create a GitHub project, make sure each member is invited as collaborators.
-- Submit GitHub link to iLearn
 - Create a readme for your team. Your proposal will live in the readme of your project.
-- Each member of your team should add their name to the readme and push those changes to
-master so we can figure out any GitHub related issues early
 - Create a proposal
 - Must have features
 - Nice to have feature
 - Create some basic wire-frames for your main feature
 Additional considerations for grading:
 - Each user has to have contributed to the readme. The entire team is responsible for this.
-- The project you propose is of a scope appropriate for your group size
 
 # Milestone 2 Prototype:
  Estimate how much work each feature will take to implement (in hours)
