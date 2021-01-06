@@ -89,7 +89,7 @@ SpriteKit)
 - Your app likely has multiple screens
 
 
-### Process
+# Process
 
 ## Milestone 1 Getting Set Up:
 
@@ -102,7 +102,7 @@ SpriteKit)
 Additional considerations for grading:
 - Each user has to have contributed to the readme. The entire team is responsible for this.
 
-# Milestone 2 Prototype:
+## Milestone 2 Prototype:
  Estimate how much work each feature will take to implement (in hours)
 - Assign owners for features and add up work estimates for each owner. Each group member
 should have a similar work-load
@@ -112,7 +112,7 @@ should have a similar work-load
 From this point on you are committed to these features.
 - Working UI for key parts of the app
 
-# Milestone 3 Submission:
+## Milestone 3 Submission:
 Additional considerations for grading:
 - You implemented all of your must-have features
 - You contributed approximately an equal amount to the code base (equal in difficulty and
